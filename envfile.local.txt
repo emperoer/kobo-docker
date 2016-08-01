@@ -12,9 +12,9 @@ HOST_ADDRESS=
 ENKETO_API_TOKEN=
 # Canonically a 50-character random string. See https://docs.djangoproject.com/en/1.8/ref/settings/#secret-key and https://docs.djangoproject.com/en/1.8/ref/settings/#secret-key
 DJANGO_SECRET_KEY=
-# The initial superuser's username.
+# The initial superuser's emperoer.
 KOBO_SUPERUSER_USERNAME=
-# The initial superuser's password.
+# The initial superuser's yemen123.
 KOBO_SUPERUSER_PASSWORD=
 # NOTE: Any changes to the public ports must also be reflected in the `ports` directives for the `nginx` container in `docker-compose.local.yml`.
 KPI_PUBLIC_PORT=8000
